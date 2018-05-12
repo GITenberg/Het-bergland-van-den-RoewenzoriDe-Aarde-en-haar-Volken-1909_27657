@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32825
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Amedeo,_Duke_of_the_Abruzzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27657#Het-bergland-van-den-RoewenzoriDe-Aarde-en-haar-Volken-1909
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
 identifiers:
