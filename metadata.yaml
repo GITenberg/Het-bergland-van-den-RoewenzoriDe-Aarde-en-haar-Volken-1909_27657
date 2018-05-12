@@ -1,0 +1,30 @@
+_repo: Het-bergland-van-den-RoewenzoriDe-Aarde-en-haar-Volken-1909_27657
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Savoia, Luigi Amedeo di, duca degli Abruzzi
+    alias: Savoyen, Ludwig Amadeus von, Herzog der Abruzzen
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '32825'
+    url: http://www.gutenberg.org/2009/agents/32825
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Amedeo,_Duke_of_the_Abruzzi
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27657'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Ruwenzori Mountains (Congo and Uganda) -- Description and travel'
+title: 'Het bergland van den Roewenzori
+
+  De Aarde en haar Volken, 1909'
+url: http://www.gutenberg.org/ebooks/27657
